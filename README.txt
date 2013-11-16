@@ -1,0 +1,1 @@
+To je mapa za vajo, da se spomnim pythona in naredim osnovno kodo za Bayesa.
